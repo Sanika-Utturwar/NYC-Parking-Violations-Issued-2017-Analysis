@@ -6,6 +6,7 @@ An in-depth analysis of New York City's 2017 parking violations dataset, highlig
 NYC faces a major parking challenge due to its bustling population and limited space. Using 2017 parking ticket data, this project analyzes patterns to provide actionable insights into parking violations across time, locations, and vehicle types.
 
 **Dataset**
+
 The dataset used for this analysis is publicly available on the NYC Open Data platform. You can access it via the following link:
 
 [Parking Violations Issued - Fiscal Year 2017](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx)
